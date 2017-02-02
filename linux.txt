@@ -1,4 +1,4 @@
-aaaadddddddaaaaaaa・Linux
+///aaaadddddddaaaaaaa・Linux
 ・apache
 ・PHP
 ・MySQL
